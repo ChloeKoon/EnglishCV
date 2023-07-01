@@ -30,7 +30,7 @@ body {
   width: 800px;
   height: auto;
   display: flex;
-  margin: 50px auto;
+  margin: 100px auto;
 }
 
 .resume .resume_left {
@@ -232,3 +232,4 @@ body {
 .resume .resume_right .resume_hobby ul li:last-child:before {
   display: none;
 }
+
